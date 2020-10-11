@@ -35,8 +35,6 @@ Granada, Spain
 
 [이걸로 동영상 링크](https://www.youtube.com/watch?v=a2jcJuxxiFQ&list=PL0NUN1E_oXsyfQZ5H6rFXJHLyQts1-8v_)
 
-a2jcJuxxiFQ
-
 <iframe width="770" height="432" src="https://www.youtube.com/embed/a2jcJuxxiFQ" frameborder="0" allowfullscreen></iframe>
 
 <br>
