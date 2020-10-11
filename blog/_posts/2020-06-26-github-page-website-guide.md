@@ -1,48 +1,39 @@
 ---
 layout: post
-title: How to Create Personal Website and Blog on GitHub
-subtitle: GitHub로 10분 만에 개인 웹사이트 및 블로그 만들기
-gh-repo: seokho-son/seokho-son.github.io
+title: Sangria
+subtitle: 샹그리아
+gh-repo: onlyfor1104/onlyfor1104.github.io
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/cat-taesik-wide.jpg
+cover-img: /assets/img/12.jpg
 tags: [Website, Blog, GitHub, Guide, How to, Seokho Son, Open source]
 comments: true
 ---
 
 ## 개요
 
-GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이드를 제공합니다.
+Granada, Spain
 
-이 가이드를 활용하여,
-
-개인의 연구 커리어 정리 사이트, 연구 프로젝트의 사이트, 기술 블로그 개설 등 다양한 활용이 가능합니다.
-
-- Git는 분산 버전 관리 시스템 (DVCS, Distributed Version Control System)
-- GitHub는 Git를 사용하여 공동 개발하는 프로젝트의 저장소 관리 및 협업을 도와주는 서비스
-- GitHub Page란 GitHub가 정적 웹사이트를 무료로 호스팅하는 것을 의미 (계정당 1개)
+- Drunk man, Sunset, Red
 
 {: .box-note}
-이 포스트는 오픈소스 프로젝트의 주요 개발 플랫폼인 GitHub 경험 차원에서,
-**ETRI 연구원** 을 위해 게시하였습니다. &#128525;
+연습 차원에서, **동휘** 를 위해 게시하였습니다. &#128525;
 
 
 <br>
 
-## 데모 웹사이트
+## 다른 사진
 
-이 가이드를 통해 10분 만에 아래 데모와 같이 웹사이트 개설이 가능합니다.
-
-데모 웹사이트 확인: [https://seokho-son.github.io](https://seokho-son.github.io)
+동휘 웹사이트 확인: [https://onlyfor1104.github.io](https://onlyfor1104.github.io)
 
 <br>
 
-## 웹사이트 생성 가이드
+## 기존 양식
 
-이 저장소를 활용하여 개인 웹사이트를 생성하는 방법 가이드
+여기가 대분류
 
-### 동영상 가이드
+### 동영상
 
-[동영상 가이드: 약 10분](https://www.youtube.com/watch?v=UgPZXxL2jSw)
+[이걸로 동영상 링크](https://www.youtube.com/watch?v=a2jcJuxxiFQ&list=PL0NUN1E_oXsyfQZ5H6rFXJHLyQts1-8v_)
 
 <iframe width="770" height="432" src="https://www.youtube.com/embed/UgPZXxL2jSw" frameborder="0" allowfullscreen></iframe>
 
@@ -50,9 +41,9 @@ GitHub로 10분 만에 개인 웹사이트 및 블로그 만들어 보는 가이
 
 ### 간단 GIF 가이드
 
-가이드를 19 단계의 애니메이션으로 표현
+GIF 짤 입력 방법
 
-![간단 가이드](../assets/img/simple-guide.gif)
+![짤이름? 느낌표는 무엇?](../assets/img/simple-guide.gif)
 
 <br>
 
