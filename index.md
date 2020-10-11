@@ -2,7 +2,7 @@
 layout: page
 title: Producing Director
 subtitle: Digital Content Department of Munhwa Broadcasting Corporation(MBC)
-cover-img: /assets/img/10.jpg
+cover-img: /assets/img/
 ---
 
 <br/>
