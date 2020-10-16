@@ -26,10 +26,6 @@ Granada, Spain
 
 ![sangria](../assets/img/12.jpg)
 
-<br>
-
-## 다른 사진
-
 동휘 웹사이트 확인: [https://onlyfor1104.github.io](https://onlyfor1104.github.io)
 
 <br>
