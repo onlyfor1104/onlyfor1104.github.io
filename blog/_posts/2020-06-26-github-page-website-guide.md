@@ -39,19 +39,8 @@ Granada, Spain
 
 <br>
 
-### 간단 GIF 가이드
-
-GIF 짤 입력 방법
-
-![짤이름? 느낌표는 무엇?](../assets/img/simple-guide.gif)
-
-<br>
-
 ### 상세 설명
 
-1. sangria
+1. sangria (Granada, Spain)
+![sangria](../assets/img/12.jpg)
 
-   1. Granada, Spain
-      ![GitHub 계정 생성](../assets/img/12.jpg)
-
-끝.
