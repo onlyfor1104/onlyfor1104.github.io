@@ -18,6 +18,13 @@ Granada, Spain
 {: .box-note}
 연습 차원에서, **동휘** 를 위해 게시하였습니다. &#128525;
 
+<br>
+
+## 상세 설명
+
+1. sangria (Granada, Spain)
+
+![sangria](../assets/img/12.jpg)
 
 <br>
 
@@ -27,20 +34,8 @@ Granada, Spain
 
 <br>
 
-## 기존 양식
-
-여기가 대분류
-
-### 동영상
+## 동영상
 
 [이걸로 동영상 링크](https://www.youtube.com/watch?v=a2jcJuxxiFQ&list=PL0NUN1E_oXsyfQZ5H6rFXJHLyQts1-8v_)
 
 <iframe width="770" height="432" src="https://www.youtube.com/embed/a2jcJuxxiFQ" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-### 상세 설명
-
-1. sangria (Granada, Spain)
-![sangria](../assets/img/12.jpg)
-
